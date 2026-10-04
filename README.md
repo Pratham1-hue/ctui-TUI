@@ -171,6 +171,3 @@ go-runewidth + reflow (ANSI-aware text fitting). No Docker SDK — the CLI is th
 which keeps the binary tiny and compatible with any runtime that speaks the Docker
 CLI dialect.
 
-## License
-
-MIT
